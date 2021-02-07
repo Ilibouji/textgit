@@ -2,4 +2,4 @@
 learn git
 
 ## sub chapter
-hoofd
+hoofd is gek
