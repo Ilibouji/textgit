@@ -1,4 +1,4 @@
 body{
     background-color: red;
-    border-box: content-box;
+    box-sizing: content-box;
 }
